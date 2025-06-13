@@ -43,7 +43,3 @@ Directorio ['Guiones de Prácticas MATLAB'](https://github.com/aleon2020/FDA_202
 ## 5. Entregables de MATLAB
 
 Directorios ['Entregables MATLAB curso 2021-2022'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Entregables%20MATLAB%20curso%202021-2022) y ['Entregables MATLAB curso 2022-2023'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Entregables%20MATLAB%20curso%202022-2023): Estos directorios contienen los entregables evaluables de MATLAB sobre las prácticas que se nos han ido mandando durante el curso (incluye los del curso 2021-2022 y 2022-2023).
-
-## 6. Exámenes resueltos
-
-Directorios ['Exámenes de teoría y problemas'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Ex%C3%A1menes%20de%20teor%C3%ADa%20y%20problemas) y ['Exámenes de MATLAB'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Ex%C3%A1menes%20de%20MATLAB): Estos directorios incluyen examenes resueltos tanto de la parte de teoría y problemas (de esta parte también hay exámenes de otras carreras) como de la parte práctica en MATLAB (de esta parte se incluyen los 4 últimos realizados en la convocatoria ordinaria y extraordinaria de esta asignatura).
