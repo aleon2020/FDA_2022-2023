@@ -1,45 +1,45 @@
 # Fundamentos de Automática 2022-2023
 
-¡Bienvenido! En este repositorio se encuentran todos los materiales correspondientes a la asignatura de Fundamentos de Automática.
+Welcome! This repository contains all the materials for the subject **Fundamentos de Automática**.
 
-A continuación se detallan brevemente todos los contenidos que se encuentran en este repositorio, con el objetivo de facilitar la preparación del examen final de la asignatura y de abordar la misma lo mejor posible.
+Below is a brief description of all the content found in this repository, with the aim of facilitating preparation for the final exam and helping you tackle the subject as best as possible.
 
-IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
+**IMPORTANT**: IF YOU NOTICE ANY MISTAKES OR MISSING IN ANY FILE UPLOADED TO THIS REPOSITORY (OR IF THERE IS ANY DOUBT REGARDING UNDERSTANDING), LEAVE ME AN ISSUE AND I WILL TRY TO RESOLVE THE PROBLEM AS SOON AS POSSIBLE. DON'T FORGET TO LEAVE ME A STAR AND I HOPE THAT ALL THIS MATERIAL IS OF GREAT HELP TO YOU.
 
-Clona este repositorio ejecutando el siguiente comando:
+Clone this repository by running the following command:
 
 ```sh
 git clone https://<token>@github.com/aleon2020/FDA_2022-2023.git
 ```
 
-IMPORTANTE: Añade tu token tal y como se muestra. Esto se hace con el objetivo de no tener que introducir el token en la terminal cada vez que se quiera actualizar el repositorio utilizando el comando 'git pull'.
+**IMPORTANT**: Add your token exactly as shown. This is so you don't have to enter the token in the terminal every time you want to update the repository using the 'git pull' command.
 
-Si ya has clonado este repositorio, ejecuta el siguiente comando antes de que empieces a trabajar con él, ya que pueden haberse añadido nuevos cambios o modificaciones. Esto se hace con el objetivo de asegurarte de que tienes clonada la versión más reciente del repositorio:
+If you've already cloned this repository, run the following command before starting to work with it, as new changes or modifications may have been added. This is to ensure you have cloned the most recent version of the repository:
 
 ```sh
 git pull
 ```
 
-## 1. Resumen de los contenidos de teoría
+## 1. Summary of the theory contents
 
-Fichero ['Resumen Teoría FDA.pdf'](https://github.com/aleon2020/FDA_2022-2023/blob/main/Resumen%20Teor%C3%ADa%20FDA.pdf): Resumen de la parte de teoría y problemas en formato PDF.
+File ['Resumen Teoría FDA.pdf'](https://github.com/aleon2020/FDA_2022-2023/blob/main/Resumen%20Teor%C3%ADa%20FDA.pdf): Summary of the theory and problems section in PDF format.
 
-Fichero ['Resumen MATLAB.pdf'](https://github.com/aleon2020/FDA_2022-2023/blob/main/Resumen%20MATLAB.pdf): Resumen de la parte práctica de MATLAB en formato PDF.
+File ['Resumen MATLAB.pdf'](https://github.com/aleon2020/FDA_2022-2023/blob/main/Resumen%20MATLAB.pdf): Summary of the practical part of MATLAB in PDF format.
 
-IMPORTANTE: Para hacer uso del índice interactivo que viene implementado en el resumen DE TEORÍA Y PROBLEMAS, debes descargar el documento en formato PDF. 
+**IMPORTANT**: To use the interactive index included in the summary of THEORY AND PROBLEMS, you must download the document in PDF format.
 
-## 2. Teoría
+## 2. Theory
 
-Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Diapositivas%20Teor%C3%ADa): Dentro de este directorio se encuentran las diapositivas utilizadas en clase para abordar los contenidos teóricos de la asignatura.
+Directory ['Diapositivas Teoría'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Diapositivas%20Teor%C3%ADa): This directory contains the slides used in class to address the theoretical content of the subject.
 
-## 3. Ejercicios
+## 3. Exercises
 
-Directorio ['Ejercicios'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Ejercicios): Dentro de este directorio se encuentran los ejercicios propuestos en cada tema, además de las soluciones proporcionadas por el profesor, también se encuentran las mismas hechas a mano y con el desarrollo concreto para llegar a la solución (no se incluyen las del Tema 5 a mano ya que este tema es casi teórico en su totalidad y con las soluciones ya proporcionadas ya es más que suficiente).
+Directory ['Ejercicios'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Ejercicios): Within this directory are the exercises proposed in each topic, in addition to the solutions provided by the teacher, also those made by hand and with the concrete development to reach the solution (those of Topic 5 by hand are not included since this topic is almost entirely theoretical and with the solutions already provided it is more than enough).
 
-## 4. Guiones de prácticas MATLAB
+## 4. MATLAB Practice Scripts
 
-Directorio ['Guiones de Prácticas MATLAB'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Guiones%20de%20Pr%C3%A1cticas%20MATLAB): Dentro de este directorio se encuentran los guiones que se van a utilizar para ir abordando los conceptos vistos en la parte práctica de la asignatura, los cuales se desarrollarán en la aplicación MATLAB. Además de incluir el guión de cada "tema", también se incluyen las soluciones a los ejercicios propuestos y un resumen genérico de cada uno de los temas vistos.
+Directory ['Guiones de Prácticas MATLAB'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Guiones%20de%20Pr%C3%A1cticas%20MATLAB): This directory contains the scripts used to cover the concepts covered in the practical portion of the course, which will be developed using MATLAB. In addition to the script for each topic, the solution to the proposed exercises and a general summary of each topic are also included.
 
-## 5. Entregables de MATLAB
+## 5. MATLAB Deliverables
 
-Directorios ['Entregables MATLAB curso 2021-2022'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Entregables%20MATLAB%20curso%202021-2022) y ['Entregables MATLAB curso 2022-2023'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Entregables%20MATLAB%20curso%202022-2023): Estos directorios contienen los entregables evaluables de MATLAB sobre las prácticas que se nos han ido mandando durante el curso (incluye los del curso 2021-2022 y 2022-2023).
+Directories ['Entregables MATLAB curso 2021-2022'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Entregables%20MATLAB%20curso%202021-2022) and ['Entregables MATLAB curso 2022-2023'](https://github.com/aleon2020/FDA_2022-2023/tree/main/Entregables%20MATLAB%20curso%202022-2023): These directories contain the assessable MATLAB deliverables for the practices that have been assigned to us throughout the course (including those for the 2021-2022 and 2022-2023 academic years).
